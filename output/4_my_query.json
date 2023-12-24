@@ -1,0 +1,112 @@
+[
+  {
+    "id": 68,
+    "name": "Samsung 970 EVO SSD",
+    "price": 185327.23,
+    "quantity": 86,
+    "category": "no",
+    "fromCity": "Тудела",
+    "isAvailable": "0",
+    "views": 11524,
+    "version": 12
+  },
+  {
+    "id": 99,
+    "name": "Samsung 970 EVO SSD",
+    "price": 177662.48,
+    "quantity": 91,
+    "category": "no",
+    "fromCity": "Астана",
+    "isAvailable": "0",
+    "views": 72734,
+    "version": 12
+  },
+  {
+    "id": 194,
+    "name": "Samsung 970 EVO SSD",
+    "price": 172108.68,
+    "quantity": 77,
+    "category": "no",
+    "fromCity": "Касерес",
+    "isAvailable": "0",
+    "views": 16043,
+    "version": 12
+  },
+  {
+    "id": 118,
+    "name": "Samsung 970 EVO SSD",
+    "price": 169588.62,
+    "quantity": 79,
+    "category": "no",
+    "fromCity": "Луарка",
+    "isAvailable": "0",
+    "views": 1248,
+    "version": 12
+  },
+  {
+    "id": 35,
+    "name": "Intel Core i5",
+    "price": 111439.06,
+    "quantity": 19,
+    "category": "no",
+    "fromCity": "Касерес",
+    "isAvailable": "1",
+    "views": 95641,
+    "version": 22
+  },
+  {
+    "id": 12,
+    "name": "Corsair HS60",
+    "price": 92248.94,
+    "quantity": 46,
+    "category": "no",
+    "fromCity": "Белград",
+    "isAvailable": "1",
+    "views": 11816,
+    "version": 3
+  },
+  {
+    "id": 121,
+    "name": "Intel Core i5",
+    "price": 57139.44,
+    "quantity": 71,
+    "category": "no",
+    "fromCity": "Эль-Пуэрто-де-Санта-Мария",
+    "isAvailable": "1",
+    "views": 16173,
+    "version": 22
+  },
+  {
+    "id": 212,
+    "name": "sublime paint",
+    "price": 200.86599999999999,
+    "quantity": 602,
+    "category": "tools",
+    "fromCity": "Трухильо",
+    "isAvailable": "1",
+    "views": 74612,
+    "version": 10
+  },
+  {
+    "id": 173,
+    "name": "attractive manicure set",
+    "price": 148.12,
+    "quantity": 794,
+    "category": "cosmetics",
+    "fromCity": "Луго",
+    "isAvailable": "1",
+    "views": 47700,
+    "version": 5
+  },
+  {
+    "id": 150,
+    "name": "amazing melon",
+    "price": 116.17,
+    "quantity": 714,
+    "category": "fruit",
+    "fromCity": "Навалькарнеро",
+    "isAvailable": "1",
+    "views": 51918,
+    "version": 2
+  }
+]
