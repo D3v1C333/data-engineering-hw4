@@ -1,0 +1,191 @@
+[
+  {
+    "id": 2558,
+    "artist": "Justin Timberlake",
+    "song": "Mirrors",
+    "duration_ms": 484146,
+    "year": 2013,
+    "tempo": 76.899,
+    "genre": "pop"
+  },
+  {
+    "id": 1667,
+    "artist": "Roger Sanchez",
+    "song": "Another Chance",
+    "duration_ms": 452906,
+    "year": 2000,
+    "tempo": 127.993,
+    "genre": "Dance/Electronic"
+  },
+  {
+    "id": 2840,
+    "artist": "Justin Timberlake",
+    "song": "What Goes Around.../...Comes Around (Interlude)",
+    "duration_ms": 448573,
+    "year": 2006,
+    "tempo": 76.0,
+    "genre": "pop"
+  },
+  {
+    "id": 1427,
+    "artist": "Justin Timberlake",
+    "song": "LoveStoned / I Think She Knows (Interlude)",
+    "duration_ms": 444333,
+    "year": 2006,
+    "tempo": 121.243,
+    "genre": "pop"
+  },
+  {
+    "id": 2805,
+    "artist": "Dirty Vegas",
+    "song": "Days Go By",
+    "duration_ms": 432146,
+    "year": 2002,
+    "tempo": 126.99,
+    "genre": "Dance/Electronic"
+  },
+  {
+    "id": 1184,
+    "artist": "Nio Garcia",
+    "song": "Te Boté - Remix",
+    "duration_ms": 417920,
+    "year": 2018,
+    "tempo": 96.507,
+    "genre": "latin"
+  },
+  {
+    "id": 1901,
+    "artist": "Eminem",
+    "song": "Stan",
+    "duration_ms": 404106,
+    "year": 2000,
+    "tempo": 80.063,
+    "genre": "hip hop"
+  },
+  {
+    "id": 2505,
+    "artist": "The Chemical Brothers",
+    "song": "Galvanize",
+    "duration_ms": 393813,
+    "year": 2005,
+    "tempo": 104.003,
+    "genre": "Dance/Electronic"
+  },
+  {
+    "id": 1082,
+    "artist": "Alicia Keys",
+    "song": "You Don't Know My Name",
+    "duration_ms": 366733,
+    "year": 2003,
+    "tempo": 167.078,
+    "genre": "pop, R&B"
+  },
+  {
+    "id": 2035,
+    "artist": "Lil' Kim",
+    "song": "Magic Stick",
+    "duration_ms": 359973,
+    "year": 2019,
+    "tempo": 92.98,
+    "genre": "hip hop, pop, R&B"
+  },
+  {
+    "id": 2438,
+    "artist": "Drake",
+    "song": "Forever",
+    "duration_ms": 357706,
+    "year": 2009,
+    "tempo": 104.02,
+    "genre": "hip hop, pop, R&B"
+  },
+  {
+    "id": 1352,
+    "artist": "Daft Punk",
+    "song": "Lose Yourself to Dance (feat. Pharrell Williams)",
+    "duration_ms": 353893,
+    "year": 2013,
+    "tempo": 100.163,
+    "genre": "hip hop, Dance/Electronic"
+  },
+  {
+    "id": 2653,
+    "artist": "Melanie C",
+    "song": "I Turn To You",
+    "duration_ms": 352173,
+    "year": 1999,
+    "tempo": 135.205,
+    "genre": "pop, Dance/Electronic"
+  },
+  {
+    "id": 1703,
+    "artist": "Kendrick Lamar",
+    "song": "m.A.A.d city",
+    "duration_ms": 350120,
+    "year": 2012,
+    "tempo": 91.048,
+    "genre": "hip hop"
+  },
+  {
+    "id": 2794,
+    "artist": "Erykah Badu",
+    "song": "Bag Lady",
+    "duration_ms": 348893,
+    "year": 2000,
+    "tempo": 151.181,
+    "genre": "hip hop, R&B"
+  },
+  {
+    "id": 1769,
+    "artist": "Marc Anthony",
+    "song": "You Sang To Me",
+    "duration_ms": 347106,
+    "year": 1999,
+    "tempo": 165.98,
+    "genre": "pop, latin"
+  },
+  {
+    "id": 2722,
+    "artist": "Migos",
+    "song": "Bad and Boujee (feat. Lil Uzi Vert)",
+    "duration_ms": 343150,
+    "year": 2017,
+    "tempo": 127.079,
+    "genre": "hip hop, pop"
+  },
+  {
+    "id": 2185,
+    "artist": "Gorillaz",
+    "song": "Clint Eastwood",
+    "duration_ms": 340920,
+    "year": 2001,
+    "tempo": 167.953,
+    "genre": "hip hop"
+  },
+  {
+    "id": 1616,
+    "artist": "Eminem",
+    "song": "Sing For The Moment",
+    "duration_ms": 339546,
+    "year": 2002,
+    "tempo": 163.961,
+    "genre": "hip hop"
+  },
+  {
+    "id": 2402,
+    "artist": "T.I.",
+    "song": "Live Your Life",
+    "duration_ms": 338853,
+    "year": 2008,
+    "tempo": 159.841,
+    "genre": "hip hop, pop"
+  },
+  {
+    "id": 2897,
+    "artist": "T.I.",
+    "song": "Live Your Life",
+    "duration_ms": 338853,
+    "year": 2008,
+    "tempo": 159.841,
+    "genre": "hip hop, pop"
+  }
+]

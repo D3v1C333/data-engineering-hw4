@@ -2,7 +2,6 @@ import csv
 import json
 import sqlite3
 
-
 def parse_date(file_name):
     items = []
     with open(file_name, 'r', encoding="utf-8") as csv_file:
